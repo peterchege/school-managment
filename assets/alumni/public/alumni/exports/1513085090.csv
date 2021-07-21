@@ -1,0 +1,6 @@
+id,student_admin,registration,surname,fullnames,gender,school,class,gname,phone,email,type,options,amount,paid,total,balance,status,method,date
+term
+28,1894,1517,NORAH                       AT,JOY                           ,,Class 1,Lower,NORAH ATIENO,0725509758,,SCHOOL FEES,MUST,5500,0,5500,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+29,1894,1517,NORAH                       AT,JOY                           ,,Class 1,Lower,NORAH ATIENO,0725509758,,DEVELOPMENT FEE,MUST,1000,0,1000,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+30,1894,1517,NORAH                       AT,JOY                           ,,Class 1,Lower,NORAH ATIENO,0725509758,,ACTIVITY FEE,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+31,1894,1517,NORAH                       AT,JOY                           ,,Class 1,Lower,NORAH ATIENO,0725509758,,MAINT. & REPAIR,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-28,TWO

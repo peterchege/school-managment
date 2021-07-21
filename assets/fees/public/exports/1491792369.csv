@@ -1,0 +1,8 @@
+id,registration,surname,fullnames,gender,class,gname,phone,email,fee_type,pay_status,amount,paid,balance,method,date,6,399,AVNI,KASYOKA,Male,Class,,Samuel Kamau,,,0715326718,samuel@kamau.com,school fees,HALF PAID,15000,7500,7500,BANK SLIP,,
+7,405,RICHARD,SILA,MALE,8,,,,,,,school fees,HALF PAID,15000,8000,14200,BANK SLIP,,
+8,399,AVNI,KASYOKA,Male,Class,,Samuel Kamau,,,0715326718,samuel@kamau.com,interview fee,PAID,1000,1000,0,CASH,,
+9,457,FAITH,MWENDE,FEMALE,8,,,,,,,school fees,PAID,15000,12000,3000,BANK SLIP,,
+10,7878,Kinyanjui,David Otieno,Male,Class,,,,,,,Interview Fee,PAID,1000,500,500,M-PESA,,
+11,399,AVNI,KASYOKA,Male,Class,,Samuel Kamau,,,0715326718,samuel@kamau.com,Transport Fees,HALF PAID,1000,500,500,CASH,,
+12,399,AVNI,KASYOKA,Male,Class,,Samuel Kamau,,,0715326718,samuel@kamau.com,School Fees,PAID,5500,1000,4500,CASH,,
+13,45623,Khimachia,Kelvin,Male,Class 8,,EYFDUHVDV,,,FJDFIJVFFKVN,FDDIFJDFDKJV,School Fees,HALF PAID,15000,1000,14000,CASH,,

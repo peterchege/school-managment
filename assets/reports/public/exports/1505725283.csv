@@ -1,0 +1,3 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,total,status,method,date,term
+11506,2541,1017,NJINO,JOEL OSTEEN MAINA,Male,Class 2,LOWER,,,,LUNCH FEE,OPTIONAL,,50,50,950,WITH BALANCE,CASH,2017-09-18,THREE
+11535,2531,1342,ADAN,SUDES,MALE,Class 2,LOWER,,,,LUNCH FEE,OPTIONAL,,750,750,250,WITH BALANCE,BANK SLIP,2017-09-18,THREE

@@ -1,0 +1,3 @@
+id,registration,surname,fullnames,gender,class,stream,gname,relationship,occupation,phone,email,fee_type,pay_status,amount,paid,balance,method,term,year
+1,2555,Kinyanjui,Stephen Kamau,Male,Class 1,Orange,,,,,,Term fee,PAID,15000,15000,0,CASH,1,2017
+3,2554,Kamau,Catherine Wangari,Female,Class 7,Blue,fjfjf,vvc,ccvcv,vcvcv,cvcvcv,Term fee,HALF PAID,15000,5000,10000,Cash,1,2017

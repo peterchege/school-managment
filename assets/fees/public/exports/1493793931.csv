@@ -1,0 +1,3 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+7,2524,7878,Khimachia,Samuel Kamau,Male,Class 2,PRE SCHOOL,,,,SCHOOL FEES,MUST,5500,0,5500,UNPAID,Notice: Use of undefined const,2017-04-14,ONE
+10,2346,405,SILA,RICHARD,MALE,Class 8,UPPER,JUSTUS   NZALE,0722356835,,SCHOOL FEES,MUST,5500,0,5500,UNPAID,BANK SLIP,2017-04-29,TWO

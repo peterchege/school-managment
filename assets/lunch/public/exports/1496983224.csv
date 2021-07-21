@@ -1,0 +1,3 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+2957,2400,1000,KIMANI,JOYCE  WACHUKA,Female,Class 7,UPPER,MARY  MUKAMI,0700241292,,LUNCH FEE,OPTIONAL,500,0,500,WITH BALANCE,CASH,2017-06-08,TWO
+2960,2400,1000,KIMANI,JOYCE  WACHUKA,Female,Class 7,UPPER,MARY  MUKAMI,0700241292,,LUNCH FEE,OPTIONAL,500,250,250,WITH BALANCE,CASH,2017-06-09,TWO

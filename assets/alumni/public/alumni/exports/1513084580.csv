@@ -1,0 +1,6 @@
+id,student_admin,registration,surname,fullnames,gender,school,class,gname,phone,email,type,options,amount,paid,total,balance,status,method,date
+term
+24,1876,1111,MOSES                        O,EMMAH                KEMUMA,,Class 1,Lower,MOSES OBUBA,0711189386,,SCHOOL FEES,MUST,5500,0,5500,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+25,1876,1111,MOSES                        O,EMMAH                KEMUMA,,Class 1,Lower,MOSES OBUBA,0711189386,,DEVELOPMENT FEE,MUST,1000,0,1000,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+26,1876,1111,MOSES                        O,EMMAH                KEMUMA,,Class 1,Lower,MOSES OBUBA,0711189386,,ACTIVITY FEE,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+27,1876,1111,MOSES                        O,EMMAH                KEMUMA,,Class 1,Lower,MOSES OBUBA,0711189386,,MAINT. & REPAIR,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO

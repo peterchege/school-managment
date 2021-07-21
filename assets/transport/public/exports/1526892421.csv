@@ -1,0 +1,3 @@
+id,student_admin,registration,fullnames,gender,school,class,gname,phone,email,type,options,route,payments,amount,paid,balance,total,status,method,date,term
+1217,1893,1511,KAREN   KENDI           ,FEMALE,LOWER,Class 2,ERICK KINOTI,0721923512,,TRANSPORT FEE,OPTIONAL,luckysummer,TO AND FROM,3000,1500,1500,1500,WITH BALANCE,BANK SLIP,2018-05-18,TWO
+1222,2520,1394,CALVIN           AMAASAH,MALE,UPPER,class 4,RONALD NGUTE,0710553785,,TRANSPORT FEE,OPTIONAL,luckysummer,TO AND FROM,3000,0,3000,0,WITH BALANCE,BANK SLIP,2018-05-21,TWO

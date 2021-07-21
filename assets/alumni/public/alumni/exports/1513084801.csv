@@ -1,0 +1,6 @@
+id,student_admin,registration,surname,fullnames,gender,school,class,gname,phone,email,type,options,amount,paid,total,balance,status,method,date
+term
+32,1903,1267,GIDRAPH      WAMBUGU,DIANA                       WA,,Class 2,Lower,GIDRAPH      WAMBUGU,724170766,,SCHOOL FEES,MUST,5500,0,5500,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+33,1903,1267,GIDRAPH      WAMBUGU,DIANA                       WA,,Class 2,Lower,GIDRAPH      WAMBUGU,724170766,,DEVELOPMENT FEE,MUST,1000,0,1000,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+34,1903,1267,GIDRAPH      WAMBUGU,DIANA                       WA,,Class 2,Lower,GIDRAPH      WAMBUGU,724170766,,ACTIVITY FEE,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+35,1903,1267,GIDRAPH      WAMBUGU,DIANA                       WA,,Class 2,Lower,GIDRAPH      WAMBUGU,724170766,,MAINT. & REPAIR,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO

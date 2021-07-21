@@ -1,0 +1,3 @@
+id,student_admin,registration,fullnames,gender,school,class,gname,phone,email,type,options,route,payments,amount,paid,balance,total,status,method,date,term
+1293,2729,1724,SANDRA BELIN ATIENO ,FEMALE,UPPER,class 7,MAURICE OGOMA,0726589848,NA,TRANSPORT FEE,OPTIONAL,luckysummer,FROM,,1000,0,1500,FULL PAID,BANK SLIP,2018-06-08,TWO
+1295,2039,1345,DENZEL                    RAOR,MALE,PRE SCHOOL,pre unit,,,,TRANSPORT FEE,OPTIONAL,kasabuni,FROM,,750,0,750,FULL PAID,BANK SLIP,2018-06-08,TWO

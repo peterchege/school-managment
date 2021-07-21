@@ -1,0 +1,7 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance
+status
+method
+date
+term
+12,001,sksk,djvbcvklcvbfkjvb,Male,Class 8,Samuel Kamau,0715326718,samuel@kamau.com,,,5500,700,4800,BANK SLIP,2017-04-17,
+13,002,Kinyanjui,Catherine Wanagari ,Female,Class 8,,,,,,5500,500,5000,CASH,2017-04-17,

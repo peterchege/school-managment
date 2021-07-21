@@ -1,0 +1,4 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+2,215,001,Kinyanjui,Catherine Wanagari,Female,Class 8,CLASS 8,Samuel Kamau,0715326718,samuel@kamau.com,INTERVIEW FEE,OPTIONAL,1000,600,400,PAID,CASH,2017-04-14,ONE
+8,2345,399,KASYOKA,AVNI,FEMALE,Class 8,UPPER,,,,SCHOOL FEES,MUST,5500,5500,0,PAID,CASH,2017-04-29,TWO
+9,2345,399,KASYOKA,AVNI,FEMALE,Class 8,UPPER,,,,TRANSPORT FEE,OPTIONAL,1000,2000,0,PAID,Notice: Use of undefined const,2017-04-29,TWO

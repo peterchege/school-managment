@@ -1,0 +1,8 @@
+id,student_admin,registration,surname,fullnames,gender,school,class,gname,phone,email,type,options,amount,paid,total,balance,status,method,date
+term
+144,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,SCHOOL FEES,MUST,5500,0,5500,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+145,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,DEVELOPMENT FEE,MUST,1000,0,1000,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+146,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,ACTIVITY FEE,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+147,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,MAINT. & REPAIR,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-28,TWO
+148,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,LUNCH FEE,MUST,5100,0,0,FULL PAID,BANK SLIP,2017-04-28,TWO
+149,2050,1441,BENJAMIN                 INYA,MERCY              MAKOKHA,,Nursery,Lower,,,,SCHOOL FEES,MUST,,0,0,FULL PAID,BANK SLIP,2017-04-28,ONE

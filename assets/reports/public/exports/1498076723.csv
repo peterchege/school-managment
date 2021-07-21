@@ -1,0 +1,3 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,total,balance,status,method,date,term
+2988,2485,1010,OCHIENG,TERESIA OLUKUSI,Female,Class 5,UPPER,HENRY  OCHIENG,0727654699,,SCHOOL FEES,MUST,,500,7600,0,FULL PAID,CASH,2017-06-13,TWO
+2994,2400,1000,KIMANI,JOYCE  WACHUKA,Female,Class 7,UPPER,MARY  MUKAMI,0700241292,,TRANSPORT FEE,OPTIONAL,,500,1200,0,FULL PAID,BANK SLIP,2017-06-13,TWO

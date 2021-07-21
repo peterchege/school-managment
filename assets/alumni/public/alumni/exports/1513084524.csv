@@ -1,0 +1,6 @@
+id,student_admin,registration,surname,fullnames,gender,school,class,gname,phone,email,type,options,amount,paid,total,balance,status,method,date
+term
+40,1929,1064,PAUL                        OD,SAMUEL                     STE,,Class 2,Lower,PAUL ODIRA,0726445113,,SCHOOL FEES,MUST,5500,0,5500,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+41,1929,1064,PAUL                        OD,SAMUEL                     STE,,Class 2,Lower,PAUL ODIRA,0726445113,,DEVELOPMENT FEE,MUST,1000,0,1000,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+42,1929,1064,PAUL                        OD,SAMUEL                     STE,,Class 2,Lower,PAUL ODIRA,0726445113,,ACTIVITY FEE,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO
+43,1929,1064,PAUL                        OD,SAMUEL                     STE,,Class 2,Lower,PAUL ODIRA,0726445113,,MAINT. & REPAIR,MUST,300,0,300,WITH BALANCE,BANK SLIP,2017-04-27,TWO

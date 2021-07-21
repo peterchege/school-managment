@@ -1,0 +1,5 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+1,215,001,Kinyanjui,Catherine Wanagari,Female,Class 8,CLASS 8,Samuel Kamau,0715326718,samuel@kamau.com,SCHOOL FEES,MUST ,5500,1500,4000,HALF PAID,BANK SLIP,2017-04-23,ONE
+7,2524,7878,Khimachia,Samuel Kamau,Male,Class 2,PRE SCHOOL,,,,SCHOOL FEES,MUST,5500,0,5500,PAID,CASH,2017-04-14,ONE
+8,2345,399,KASYOKA,AVNI,FEMALE,Class 8,UPPER,,,,SCHOOL FEES,MUST,5500,1400,4800,HALF PAID,BANK SLIP,2017-04-29,TWO
+10,2346,405,SILA,RICHARD,MALE,Class 8,UPPER,JUSTUS   NZALE,0722356835,,SCHOOL FEES,MUST,5500,0,5500,UNPAID,BANK SLIP,2017-04-29,TWO

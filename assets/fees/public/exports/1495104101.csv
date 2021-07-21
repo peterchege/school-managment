@@ -1,0 +1,5 @@
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+id,student_admin,registration,surname,fullnames,gender,class,school,gname,phone,email,type,options,amount,paid,balance,status,method,date,term
+1,215,001,Kinyanjui,Catherine Wanagari,Female,Class 8,CLASS 8,Samuel Kamau,0715326718,samuel@kamau.com,SCHOOL FEES,MUST ,5500,1500,4000,HALF PAID,BANK SLIP,2017-04-23,ONE
+3,215,001,Kinyanjui,Catherine Wanagari,Female,Class 8,CLASS 8,Samuel Kamau,0715326718,samuel@kamau.com,TRANSPORT FEE,OPTIONAL,1000,200,800,HALF PAID,BANK SLIP,2017-04-26,ONE
+4,215,001,Kinyanjui,Catherine Wanagari,Female,Class 8,CLASS 8,Samuel Kamau,0715326718,samuel@kamau.com,TUITION FEE,OPTIONAL,1200,200,1000,HALF PAID,BANK SLIP,2017-04-23,ONE
